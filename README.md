@@ -1,9 +1,5 @@
 ## Hello, there.   I'm **Conner** 👋 thanks for stopping by!
 
-
-**ckrenzer720/ckrenzer720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
 ```javascript
 export default AboutMe = {
   firstName: "Conner",
@@ -26,5 +22,5 @@ function Socials(evt) {
   instagram: "c_krenza"
   snapchat: ckrenz303
   return 'you want to reach me 📫' ? "💬 Ask me about" : "bye-bye 😎"
-}
+};
 ```
