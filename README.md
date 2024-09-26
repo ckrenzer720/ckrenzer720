@@ -24,3 +24,6 @@ function Socials(evt) {
   return 'you want to reach me 📫' ? "💬 Ask me about" : "bye-bye 😎"
 };
 ```
+---
+
+⭐️ From [@ckrenzer720](https://github.com/ckrenzer720)
