@@ -21,7 +21,7 @@ export default AboutMe = {
 function Socials(evt) {
   instagram: "c_krenza"
   snapchat: ckrenz303
-  return 'you want to reach me 📫' ? "💬 Ask me about" : "bye-bye 😎"
+  return 'you want to reach me 📫' ? "💬 Just ask" : "bye-bye 😎"
 };
 ```
 ---
