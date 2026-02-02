@@ -4,7 +4,7 @@
 export default AboutMe = {
   firstName: "Conner",
   lastName: "Krenzer",
-  age: 30,
+  age: 31,
   pronouns: "He" || "Him",
   hobbies: {
     gaming: [ PC ],
